@@ -3,7 +3,7 @@ import time
 from graphics import *  # pip3 import graphics.py
 
 def main():
-    workArea = GraphWin('Simple Python Calculator', 250, 350) # Title and Dimensions
+    workArea = GraphWin('Simple Calculator', 250, 350) # Title and Dimensions
     workArea.setBackground('black')
     calexp = Rectangle(Point(50,10),Point(190,40))
     calexp.setFill("light yellow")
