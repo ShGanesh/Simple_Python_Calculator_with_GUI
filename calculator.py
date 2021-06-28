@@ -1,5 +1,4 @@
 # A simple Calculator in Python with GUI
-import time
 from graphics import *  # pip3 import graphics.py
 
 def main():
